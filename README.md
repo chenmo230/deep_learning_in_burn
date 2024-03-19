@@ -1,3 +1,4 @@
-# deep_learning_in_burn
-本项目用来记录深度学习的学习笔记，基于[brun](https://burn.dev/)实现；
-基于python实现的版本在[这里](https://github.com/chenmo230/deep_learning_in_python)
+# deep_learning_in_burn]
+This project is used to record learning notes for deep learning and is implemented based on [burn](https://burn.dev/)
+
+python version is [here](https://github.com/chenmo230/deep_learning_in_python)
