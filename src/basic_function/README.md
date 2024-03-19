@@ -1,1 +1,1 @@
-## 基于[burn](https://burn.dev/)实现了一些基础方法
+## Based on [burn](https://burn.dev/) implemented some basic methods
